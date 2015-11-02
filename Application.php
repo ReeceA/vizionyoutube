@@ -17,4 +17,14 @@ namespace IPS\vizionyoutube;
 class _Application extends \IPS\Application
 {
 
+
+	/**
+	 * Application icon
+	 *
+	 * @return  string
+	 */
+	public function get__icon()
+	{
+		return 'youtube-square';
+	}
 }
