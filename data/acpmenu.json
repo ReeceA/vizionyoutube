@@ -1,1 +1,16 @@
-[]
+{
+    "settings": {
+        "api_key": {
+            "tab": "vizionyoutube",
+            "controller": "api_key",
+            "do": "",
+            "restriction": "api_key_manage"
+        },
+        "watched_channels": {
+            "tab": "vizionyoutube",
+            "controller": "watched_channels",
+            "do": "",
+            "restriction": "watched_channels_manage"
+        }
+    }
+}

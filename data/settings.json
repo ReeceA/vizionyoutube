@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "key": "vizionyoutube_api_key",
+        "default": ""
+    }
+]
