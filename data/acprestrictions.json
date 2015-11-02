@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "api_key": {
+            "api_key_manage": "api_key_manage"
+        },
+        "watched_channels": {
+            "watched_channels_manage": "watched_channels_manage"
+        }
+    }
+}
