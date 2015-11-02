@@ -139,7 +139,7 @@ class _Channels extends \IPS\Patterns\ActiveRecord
 	 *
 	 * @return mixed
 	 */
-	public function get_multiple()
+	public function get_yt_channel_multiple()
 	{
 		return self::$data->yt_channel_multiple;
 	}
@@ -149,7 +149,7 @@ class _Channels extends \IPS\Patterns\ActiveRecord
 	 *
 	 * @param $value
 	 */
-	public function set_multiple( $value )
+	public function set_yt_channel_multiple( $value )
 	{
 		self::$data->yt_channel_multiple = $value;
 	}
@@ -159,7 +159,7 @@ class _Channels extends \IPS\Patterns\ActiveRecord
 	 *
 	 * @return mixed
 	 */
-	public function get_channelData()
+	public function get_yt_channel_multiple_data()
 	{
 		return self::$data->yt_channel_multiple_data;
 	}
@@ -169,7 +169,7 @@ class _Channels extends \IPS\Patterns\ActiveRecord
 	 *
 	 * @param $value
 	 */
-	public function set_channelData( $value )
+	public function set_yt_channel_multiple_data( $value )
 	{
 		self::$data->yt_channel_multiple_data = $value;
 	}
